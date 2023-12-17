@@ -13,7 +13,7 @@ Uploading ezgif.com-video-speed (4).mp4…
 </head>
 <body>
     <header>
-        <h1> Hilal Karagülmez Portfolio React & Redux </h1>
+        <h1> Hilal Karagülmez Portfolio </h1>
     </header>
     <div class="container">
         <h2>About Project</h2>
