@@ -1,9 +1,5 @@
 
-
-
-Uploading ezgif.com-video-speed (4).mp4…
-
-
+https://github.com/hilalkrglmz/portfolyo/assets/140657703/a8331692-d28c-4119-b05e-1789333c4863
 
 <!DOCTYPE html>
 <html lang="en">
